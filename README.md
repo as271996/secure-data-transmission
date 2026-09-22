@@ -202,8 +202,8 @@ Make sure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/as271996/Secure-Data-Transmission.git
-cd Secure-Data-Transmission/SecureDataTransmission
+git clone https://github.com/as271996/secure-data-transmission.git
+cd secure-data-transmission/SecureDataTransmission
 ```
 
 ### 2. Open the Project
