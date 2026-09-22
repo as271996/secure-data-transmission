@@ -328,13 +328,11 @@ This application builds on the image-steganography technique developed separatel
 
 That project focuses on the core LSB-based image-steganography mechanism, while this project extends the concept into a broader secure-data-transmission workflow using encryption, compression, authentication, and sender/receiver flows.
 
-## Project Documentation
+## Documentation
 
-The repository can also include the original academic documentation for reference, including:
+The original academic documentation for this final-year project is available below:
 
-- Project report
-- Research / technical paper
-- System requirement and design documentation
-- Test cases and result analysis
+- [Project Report](./docs/hybrid-approach-project-report.pdf)
+- [Technical Paper — Hybrid Approach for Securing Data](./docs/hybrid-approach-technical-paper.pdf)
 
-These documents describe the motivation, proposed system, algorithms, architecture, testing, and results behind the project.
+These documents cover the project motivation, proposed architecture, AES encryption, LZW compression, LSB image steganography, multithreaded extraction, system design, testing, and result analysis.
